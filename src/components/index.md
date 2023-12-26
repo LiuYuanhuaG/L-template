@@ -10,7 +10,7 @@ apiHeader: false
 ## 使用方式
 
 ```shell
-pnpm i 'L-template'
+pnpm i 'l-template'
 ```
 
 ## peerDependencies

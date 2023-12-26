@@ -73,8 +73,8 @@ export const footer = [
         openExternal: true,
       },
       {
-        title: 'L-template',
-        url: 'https://github.com/LiuYuanhuaG/L-template',
+        title: 'l-template',
+        url: 'https://github.com/LiuYuanhuaG/l-template',
         openExternal: true,
       },
     ],

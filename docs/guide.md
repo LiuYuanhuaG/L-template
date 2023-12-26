@@ -5,7 +5,7 @@ title: 使用介绍
 ## Step1. 使用该模板创建一个新的仓库, 设置密匙及权限
 
 - 点击右上角 `use this template` -> `create a new reposity` 按钮，创建一个新的仓库。
-  - ![template](../public/images/L-template.png)
+  - ![template](../public/images/l-template.png)
 - `git clone xxx` 仓库到本地 并安装依赖 `pnpm i`
 - 更换默认分支为 `master`
   - ![template](../public/images/default-branch.png)
@@ -47,7 +47,7 @@ nvm use v18.18.0
 
 - 更换步骤
 
-  - 全局搜索 `L-template` 替换为 自己的包名
+  - 全局搜索 `l-template` 替换为 自己的包名
   - 全局搜索 `LiuYuanhuaG` 替换为 自己的 github 名称
   - 在 config/features.ts 及 config/footer.tsx 设置自己的首页信息及页脚信息
   - 全局搜索 `a online docs and npm package template` 替换为自己 npm 包的描述

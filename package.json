@@ -6,13 +6,13 @@
     "npm",
     "template"
   ],
-  "homepage": "https://github.com/LiuYuanhuaG/L-template",
+  "homepage": "https://github.com/LiuYuanhuaG/l-template",
   "bugs": {
-    "url": "https://github.com/LiuYuanhuaG/L-template/issues/new"
+    "url": "https://github.com/LiuYuanhuaG/l-template/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LiuYuanhuaG/L-template.git"
+    "url": "https://github.com/LiuYuanhuaG/l-template.git"
   },
   "license": "MIT",
   "author": "LiuYuanhuaG(969475322@qq.com)",

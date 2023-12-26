@@ -1,6 +1,6 @@
 ---
 name: '报告Bug 🐛'
-about: 报告 L-template 的 bug
+about: 报告 l-template 的 bug
 title: '🐛[BUG]'
 labels: '🐛 BUG'
 assignees: ''
@@ -35,7 +35,7 @@ assignees: ''
 
 ### © 版本信息
 
-- L-template 版本: [e.g. 1.0.0]
+- l-template 版本: [e.g. 1.0.0]
 - 浏览器环境
 - 开发环境 [e.g. mac OS]
 

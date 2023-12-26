@@ -1,3 +1,3 @@
-import { Hello } from 'L-template';
+import { Hello } from 'l-template';
 
 export default Hello;

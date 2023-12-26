@@ -1,12 +1,12 @@
 ---
 hero:
-  title: L-template
+  title: l-template
   description: a online docs and npm package template
   actions:
     - text: 快速上手
       link: /guide
     - text: Github
-      link: https://github.com/LiuYuanhuaG/L-template/
+      link: https://github.com/LiuYuanhuaG/l-template/
 ---
 
 `<embed src="../README.md"></embed>`

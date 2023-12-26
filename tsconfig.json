@@ -21,8 +21,8 @@
     "paths": {
       "@@/*": [".dumi/tmp/*"],
       "@/*": ["./src"],
-      "L-template": ["./src"],
-      "L-template/*": ["./src/*"]
+      "l-template": ["./src"],
+      "l-template/*": ["./src/*"]
     }
   },
   "exclude": ["node_modules", "dist", "server"]

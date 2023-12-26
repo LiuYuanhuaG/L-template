@@ -4,7 +4,7 @@
 
 [//]: # '<img width="160" src="https://avatars.githubusercontent.com/u/17870709?v=4">'
 
-<h1>L-template</h1>
+<h1>l-template</h1>
 
 一个开发 npm 项目的模板
 
@@ -27,7 +27,7 @@ node 版本 v18.13.0
 <!-- gitpod url -->
 
 [gitpod-badge]: https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod
-[gitpod-url]: https://gitpod.io/#https://github.com/ant-design/L-template
+[gitpod-url]: https://gitpod.io/#https://github.com/ant-design/l-template
 
 <!-- umi url -->
 
@@ -36,24 +36,24 @@ node 版本 v18.13.0
 
 <!-- npm url -->
 
-[npm-image]: http://img.shields.io/npm/v/L-template.svg?style=flat-square&color=deepgreen&label=latest
-[npm-url]: http://npmjs.org/package/L-template
-[npm-size]: https://img.shields.io/bundlephobia/minzip/L-template?color=deepgreen&label=gizpped%20size&style=flat-square
-[npm-size-url]: https://packagephobia.com/result?p=L-template
+[npm-image]: http://img.shields.io/npm/v/l-template.svg?style=flat-square&color=deepgreen&label=latest
+[npm-url]: http://npmjs.org/package/l-template
+[npm-size]: https://img.shields.io/bundlephobia/minzip/l-template?color=deepgreen&label=gizpped%20size&style=flat-square
+[npm-size-url]: https://packagephobia.com/result?p=l-template
 
 <!-- coverage -->
 
-[coverage]: https://codecov.io/gh/LiuYuanhuaG/L-template/branch/master/graph/badge.svg
-[codecov-url]: https://codecov.io/gh/LiuYuanhuaG/L-template/branch/master
+[coverage]: https://codecov.io/gh/LiuYuanhuaG/l-template/branch/master/graph/badge.svg
+[codecov-url]: https://codecov.io/gh/LiuYuanhuaG/l-template/branch/master
 
 <!-- Github CI -->
 
-[test-ci]: https://github.com/LiuYuanhuaG/L-template/workflows/Test%20CI/badge.svg
-[release-ci]: https://github.com/LiuYuanhuaG/L-template/workflows/Release%20CI/badge.svg
-[test-ci-url]: https://github.com/LiuYuanhuaG/L-template/actions?query=workflow%3ATest%20CI
-[release-ci-url]: https://github.com/LiuYuanhuaG/L-template/actions?query=workflow%3ARelease%20CI
-[download-image]: https://img.shields.io/npm/dm/L-template.svg?style=flat-square
-[download-url]: https://npmjs.org/package/L-template
+[test-ci]: https://github.com/LiuYuanhuaG/l-template/workflows/Test%20CI/badge.svg
+[release-ci]: https://github.com/LiuYuanhuaG/l-template/workflows/Release%20CI/badge.svg
+[test-ci-url]: https://github.com/LiuYuanhuaG/l-template/actions?query=workflow%3ATest%20CI
+[release-ci-url]: https://github.com/LiuYuanhuaG/l-template/actions?query=workflow%3ARelease%20CI
+[download-image]: https://img.shields.io/npm/dm/l-template.svg?style=flat-square
+[download-url]: https://npmjs.org/package/l-template
 
 </div>
 
@@ -73,7 +73,7 @@ node 版本 v18.13.0
 推荐使用 `pnpm` 安装
 
 ```bash
-pnpm i L-template -S
+pnpm i l-template -S
 ```
 
 ### 使用
@@ -115,20 +115,20 @@ This project is [MIT](./LICENSE) licensed.
 
 <!-- contributors -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/LiuYuanhuaG/L-template.svg?style=flat
-[contributors-url]: https://github.com/LiuYuanhuaG/L-template/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/LiuYuanhuaG/l-template.svg?style=flat
+[contributors-url]: https://github.com/LiuYuanhuaG/l-template/graphs/contributors
 
 <!-- forks -->
 
-[forks-shield]: https://img.shields.io/github/forks/LiuYuanhuaG/L-template.svg?style=flat
-[forks-url]: https://github.com/LiuYuanhuaG/L-template/network/members
+[forks-shield]: https://img.shields.io/github/forks/LiuYuanhuaG/l-template.svg?style=flat
+[forks-url]: https://github.com/LiuYuanhuaG/l-template/network/members
 
 <!-- stargazers -->
 
-[stargazers-shield]: https://img.shields.io/github/stars/LiuYuanhuaG/L-template.svg?style=flat
-[stargazers-url]: https://github.com/LiuYuanhuaG/L-template/stargazers
+[stargazers-shield]: https://img.shields.io/github/stars/LiuYuanhuaG/l-template.svg?style=flat
+[stargazers-url]: https://github.com/LiuYuanhuaG/l-template/stargazers
 
 <!-- issues -->
 
-[issues-shield]: https://img.shields.io/github/issues/LiuYuanhuaG/L-template.svg?style=flat
-[issues-url]: https://github.com/LiuYuanhuaG/L-template/issues/new/choose
+[issues-shield]: https://img.shields.io/github/issues/LiuYuanhuaG/l-template.svg?style=flat
+[issues-url]: https://github.com/LiuYuanhuaG/l-template/issues/new/choose

@@ -47,10 +47,10 @@ const themeConfig: SiteThemeConfig = {
   },
   socialLinks: { github: homepage },
   apiHeader: {
-    sourceUrl: `https://github.com/LiuYuanhuaG/L-template/tree/master/src/components/{atomId}/index.tsx`,
-    docUrl: `https://github.com/LiuYuanhuaG/L-template/tree/master/src/components/{atomId}/index.md`,
-    pkg: 'L-template',
-    match: ['/L-template/src/component'],
+    sourceUrl: `https://github.com/LiuYuanhuaG/l-template/tree/master/src/components/{atomId}/index.tsx`,
+    docUrl: `https://github.com/LiuYuanhuaG/l-template/tree/master/src/components/{atomId}/index.md`,
+    pkg: 'l-template',
+    match: ['/l-template/src/component'],
   },
   footerConfig: {
     bottom: '2023',

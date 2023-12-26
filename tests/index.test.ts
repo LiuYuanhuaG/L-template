@@ -1,4 +1,4 @@
-import { Hello } from 'L-template';
+import { Hello } from 'l-template';
 
 test('hello', () => {
   expect(Hello()).toBe('word');
