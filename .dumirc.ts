@@ -24,7 +24,7 @@ const themeConfig: SiteThemeConfig = {
         },
         {
           text: 'Github',
-          link: 'https://github.com/eternallycyf/',
+          link: 'https://github.com/LiuYuanhuaG/',
           openExternal: true,
         },
       ],
@@ -47,14 +47,14 @@ const themeConfig: SiteThemeConfig = {
   },
   socialLinks: { github: homepage },
   apiHeader: {
-    sourceUrl: `https://github.com/eternallycyf/ims-template/tree/master/src/components/{atomId}/index.tsx`,
-    docUrl: `https://github.com/eternallycyf/ims-template/tree/master/src/components/{atomId}/index.md`,
-    pkg: 'ims-template',
-    match: ['/ims-template/src/component'],
+    sourceUrl: `https://github.com/LiuYuanhuaG/L-template/tree/master/src/components/{atomId}/index.tsx`,
+    docUrl: `https://github.com/LiuYuanhuaG/L-template/tree/master/src/components/{atomId}/index.md`,
+    pkg: 'L-template',
+    match: ['/L-template/src/component'],
   },
   footerConfig: {
     bottom: '2023',
-    copyright: 'Made with ❤️ by eternallycyf - AFX & 数字科技',
+    copyright: 'Made with ❤️ by LiuYuanhuaG - AFX',
     columns: footer,
   },
 };

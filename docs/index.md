@@ -1,15 +1,15 @@
 ---
 hero:
-  title: ims-template
+  title: L-template
   description: a online docs and npm package template
   actions:
     - text: 快速上手
       link: /guide
     - text: Github
-      link: https://github.com/eternallycyf/ims-view/
+      link: https://github.com/LiuYuanhuaG/L-template/
 ---
 
-<embed src="../README.md"></embed>
+`<embed src="../README.md"></embed>`
 
 工程框架选型如下：
 

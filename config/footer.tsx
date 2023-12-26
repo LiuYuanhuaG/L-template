@@ -49,7 +49,7 @@ export const footer = [
     items: [
       {
         title: 'GitHub',
-        url: 'https://github.com/eternallycyf/ims-view-pc',
+        url: 'https://github.com/LiuYuanhuaG/ims-view-pc',
         openExternal: true,
       },
       {
@@ -58,7 +58,7 @@ export const footer = [
       },
       {
         title: '讨论',
-        url: 'https://github.com/eternallycyf/ims-view-pc/issues',
+        url: 'https://github.com/LiuYuanhuaG/ims-view-pc/issues',
         openExternal: true,
       },
     ],
@@ -69,12 +69,12 @@ export const footer = [
       {
         title: 'ims-monorepo-template',
         description: 'monorepo模板',
-        url: 'https://github.com/eternallycyf/ims-monorepo-template',
+        url: 'https://github.com/LiuYuanhuaG/ims-monorepo-template',
         openExternal: true,
       },
       {
-        title: 'ims-template',
-        url: 'https://github.com/eternallycyf/ims-template',
+        title: 'L-template',
+        url: 'https://github.com/LiuYuanhuaG/L-template',
         openExternal: true,
       },
     ],
@@ -84,7 +84,7 @@ export const footer = [
     items: [
       {
         title: 'lrxc-cli',
-        url: 'https://github.com/eternallycyf/lrxc-cli',
+        url: 'https://github.com/LiuYuanhuaG/lrxc-cli',
         openExternal: true,
       },
     ],

@@ -5,7 +5,7 @@ title: 使用介绍
 ## Step1. 使用该模板创建一个新的仓库, 设置密匙及权限
 
 - 点击右上角 `use this template` -> `create a new reposity` 按钮，创建一个新的仓库。
-  - ![template](../public/images/ims-template.png)
+  - ![template](../public/images/L-template.png)
 - `git clone xxx` 仓库到本地 并安装依赖 `pnpm i`
 - 更换默认分支为 `master`
   - ![template](../public/images/default-branch.png)
@@ -47,15 +47,15 @@ nvm use v18.18.0
 
 - 更换步骤
 
-  - 全局搜索 `ims-template` 替换为 自己的包名
-  - 全局搜索 `eternallycyf` 替换为 自己的 github 名称
+  - 全局搜索 `L-template` 替换为 自己的包名
+  - 全局搜索 `LiuYuanhuaG` 替换为 自己的 github 名称
   - 在 config/features.ts 及 config/footer.tsx 设置自己的首页信息及页脚信息
   - 全局搜索 `a online docs and npm package template` 替换为自己 npm 包的描述
   - package.json 更新 `keywords`
   - package.json 更换 `version` 更新为 `0.0.1`
   - 删除 `CHANGELOG.md` 内容(会自动生成)
 
-- [一个修改的 commit 差异记录](https://github.com/eternallycyf/ims-indexed-db/commit/ae780193edbfb996f3ab6e2239cdb6765a6855db)
+- [一个修改的 commit 差异记录](https://github.com/LiuYuanhuaG/ims-indexed-db/commit/ae780193edbfb996f3ab6e2239cdb6765a6855db)
 
 ## Step4. 搭建 Vercel
 
