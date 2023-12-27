@@ -89,7 +89,7 @@ pnpm i l-template -S
 > 📊 Total: <kbd>**1**</kbd>
 
 <a href="https://github.com/LiuYuanhuaG" title="LiuYuanhuaG">
-  <img src="https://avatars.githubusercontent.com/u/63464198?v=4" width="50" />
+  <img src="https://avatars.githubusercontent.com/u/81506881?v=4" width="50" />
 </a>
 
 <!-- CONTRIBUTION END -->
