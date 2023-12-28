@@ -86,10 +86,13 @@ pnpm i l-template -S
 
 <!-- CONTRIBUTION GROUP -->
 
-> 📊 Total: <kbd>**1**</kbd>
+> 📊 Total: <kbd>**2**</kbd>
 
 <a href="https://github.com/LiuYuanhuaG" title="LiuYuanhuaG">
   <img src="https://avatars.githubusercontent.com/u/81506881?v=4" width="50" />
+</a>
+<a href="https://github.com/actions-user" title="actions-user">
+  <img src="https://avatars.githubusercontent.com/u/65916846?v=4" width="50" />
 </a>
 
 <!-- CONTRIBUTION END -->
